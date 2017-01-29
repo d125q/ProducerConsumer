@@ -1,3 +1,5 @@
+package mk.ukim.finki.ds.lab4;
+
 import java.io.IOException;
 import java.net.Socket;
 
